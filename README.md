@@ -48,6 +48,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
+| [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
