@@ -41,6 +41,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0014-longest-common-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0051-n-queens) |
@@ -94,6 +95,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
