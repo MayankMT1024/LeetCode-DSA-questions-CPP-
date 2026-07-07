@@ -115,6 +115,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Trie
 |  |
 | ------- |
@@ -162,6 +163,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +180,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
