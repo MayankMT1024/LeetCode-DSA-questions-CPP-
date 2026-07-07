@@ -41,6 +41,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -53,4 +54,12 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
