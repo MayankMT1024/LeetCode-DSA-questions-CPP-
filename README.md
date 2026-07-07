@@ -30,3 +30,15 @@ As I solve random and targeted problems, this repository acts as a database for 
 
 ---
 *This is a living repository, updated automatically as I continue to practice and submit new solutions.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
