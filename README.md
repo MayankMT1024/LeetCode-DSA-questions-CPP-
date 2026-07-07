@@ -53,6 +53,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +116,12 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
