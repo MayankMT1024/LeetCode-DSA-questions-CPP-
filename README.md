@@ -154,6 +154,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -174,6 +175,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -230,6 +232,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -244,6 +247,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 ## Graph Theory
 |  |
 | ------- |
