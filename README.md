@@ -40,6 +40,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
