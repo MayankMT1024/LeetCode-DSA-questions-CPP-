@@ -58,6 +58,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +155,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
@@ -219,6 +222,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
