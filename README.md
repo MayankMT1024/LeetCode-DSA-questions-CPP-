@@ -61,6 +61,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0460-lfu-cache) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +141,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +188,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +200,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +211,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,6 +225,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
