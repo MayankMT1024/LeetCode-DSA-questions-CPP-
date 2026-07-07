@@ -205,6 +205,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -231,6 +232,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -265,8 +267,10 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
