@@ -49,6 +49,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0135-candy](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
+| [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +174,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 ## Monotonic Stack
 |  |
 | ------- |
