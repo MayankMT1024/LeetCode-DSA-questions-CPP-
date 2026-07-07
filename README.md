@@ -162,6 +162,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
@@ -195,6 +196,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -226,6 +228,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -235,6 +238,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -258,6 +262,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
@@ -289,4 +294,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
