@@ -74,6 +74,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0009-palindrome-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0076-minimum-window-substring) |
+| [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +137,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0051-n-queens) |
+| [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
