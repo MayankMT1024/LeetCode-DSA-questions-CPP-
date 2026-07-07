@@ -51,6 +51,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
