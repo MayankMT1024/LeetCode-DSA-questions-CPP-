@@ -45,6 +45,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,4 +152,5 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
