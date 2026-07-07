@@ -160,18 +160,21 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -180,4 +183,5 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
