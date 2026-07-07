@@ -82,6 +82,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0013-roman-to-integer](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
