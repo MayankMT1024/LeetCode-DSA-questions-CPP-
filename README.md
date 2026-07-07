@@ -116,6 +116,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
+| [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,6 +151,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -209,6 +212,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -217,4 +221,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
