@@ -134,6 +134,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -194,6 +195,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,6 +211,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,11 +224,13 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0099-recover-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
