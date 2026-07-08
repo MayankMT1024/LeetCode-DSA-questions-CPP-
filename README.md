@@ -88,6 +88,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0050-powx-n](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0076-minimum-window-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0076-minimum-window-substring) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -308,4 +310,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
