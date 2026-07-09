@@ -54,6 +54,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0460-lfu-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +122,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,6 +293,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -301,6 +305,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
