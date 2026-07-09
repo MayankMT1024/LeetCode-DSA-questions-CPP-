@@ -189,6 +189,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
@@ -237,6 +238,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
@@ -277,6 +279,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
@@ -320,6 +323,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
@@ -340,5 +344,6 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
