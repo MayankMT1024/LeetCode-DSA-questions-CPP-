@@ -53,6 +53,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -194,6 +195,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 ## Monotonic Stack
 |  |
@@ -270,6 +272,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
 | ------- |
