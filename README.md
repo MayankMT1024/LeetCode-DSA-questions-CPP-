@@ -151,6 +151,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
@@ -188,6 +189,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
@@ -236,6 +238,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -275,6 +278,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -317,6 +321,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
@@ -332,4 +337,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
