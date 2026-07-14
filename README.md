@@ -59,6 +59,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -98,6 +99,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0013-roman-to-integer](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -166,6 +168,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -395,4 +398,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
