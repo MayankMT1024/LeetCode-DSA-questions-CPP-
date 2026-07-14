@@ -79,6 +79,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -123,6 +124,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -184,6 +186,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -324,6 +327,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
