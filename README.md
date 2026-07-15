@@ -60,6 +60,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
+| [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -144,6 +145,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
+| [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -336,6 +338,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0135-candy](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
