@@ -255,6 +255,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -268,6 +269,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -296,6 +298,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -315,6 +318,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0127-word-ladder) |
+| [0199-binary-tree-right-side-view](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
