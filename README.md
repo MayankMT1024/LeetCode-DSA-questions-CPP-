@@ -102,6 +102,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0009-palindrome-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
@@ -173,6 +174,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0403-frog-jump](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0403-frog-jump) |
@@ -436,4 +438,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
