@@ -57,6 +57,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0403-frog-jump](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
+| [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
@@ -190,6 +191,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0403-frog-jump](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
+| [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -251,6 +253,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0063-unique-paths-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
+| [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
