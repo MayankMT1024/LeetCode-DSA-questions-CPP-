@@ -64,6 +64,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -86,6 +87,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -109,6 +111,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0070-climbing-stairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -152,6 +155,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -419,6 +423,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Shortest Path
 |  |
@@ -434,6 +439,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -450,4 +456,9 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
