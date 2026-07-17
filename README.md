@@ -63,6 +63,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
+| [1463-cherry-pickup-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -196,6 +197,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1463-cherry-pickup-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -258,6 +260,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
+| [1463-cherry-pickup-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
