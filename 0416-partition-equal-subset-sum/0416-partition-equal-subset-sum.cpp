@@ -1,7 +1,9 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        int sum = accumulate(nums.begin(), nums.end(), 0);
+        int sum = 0;
+
+        for (int num: nums) sum += num;
         
         if (sum % 2 != 0) {
             return false;
@@ -15,8 +17,11 @@ public:
             for (int i = target; i >= num; --i) {
                 dp[i] = dp[i] || dp[i - num];
             }
+            if (dp[target]) {
+                return true;
+            }
         }
         
-        return dp[target];
+        return false;
     }
 };
