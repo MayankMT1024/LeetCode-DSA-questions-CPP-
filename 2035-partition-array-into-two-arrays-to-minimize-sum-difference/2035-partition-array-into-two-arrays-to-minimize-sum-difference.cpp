@@ -53,6 +53,7 @@ public:
                     int current_sum = left_val + right_val;
                     int current_diff = abs(total_sum - 2 * current_sum);
                     
+                    if (current_diff == 0) return 0;
                     if (current_diff < min_diff) {
                         min_diff = current_diff;
                     }
