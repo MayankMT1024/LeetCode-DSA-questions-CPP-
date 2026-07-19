@@ -145,6 +145,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -243,6 +244,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -277,6 +279,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -374,6 +377,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
