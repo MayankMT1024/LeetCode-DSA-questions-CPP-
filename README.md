@@ -63,6 +63,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
@@ -270,6 +271,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
@@ -472,6 +474,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
