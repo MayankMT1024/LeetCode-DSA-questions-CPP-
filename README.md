@@ -149,6 +149,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
@@ -212,6 +213,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
