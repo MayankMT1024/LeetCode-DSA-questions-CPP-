@@ -152,6 +152,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -215,6 +216,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1463-cherry-pickup-ii) |
