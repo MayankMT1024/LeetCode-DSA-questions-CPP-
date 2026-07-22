@@ -75,6 +75,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -156,6 +157,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -173,6 +175,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -514,4 +517,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
