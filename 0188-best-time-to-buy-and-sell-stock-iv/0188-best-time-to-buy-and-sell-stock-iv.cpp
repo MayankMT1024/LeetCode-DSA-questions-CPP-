@@ -14,7 +14,7 @@ public:
                     }
                 }
             }
-            next = cur;
+            swap(next, cur);
         }
 
         return next[1][k];
