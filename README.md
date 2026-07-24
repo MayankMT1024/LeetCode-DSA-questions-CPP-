@@ -69,6 +69,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
+| [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -213,6 +214,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -248,6 +250,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0583-delete-operation-for-two-strings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
@@ -554,6 +557,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
