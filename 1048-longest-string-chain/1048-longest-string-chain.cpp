@@ -1,37 +1,27 @@
 class Solution {
 public:
-bool check(string &s1, string &s2){
-    if(s1.size()!=s2.size()+1)return false;
-    int first=0,sec=0;
-    while(first<s1.size()){
-        if(s1[first]==s2[sec]){
-            first++;sec++;
-        }else{
-            first++;
-        }
-    }
-    if(first==s1.size() && sec==s2.size()){
-        return true;
-    }else return false;
-}
-
-static bool compareByLength(const std::string &a, const std::string &b) {
-    return a.size() < b.size();
-}
-    int longestStrChain(vector<string>& nums) {
-        int n=nums.size();
-        vector<int> dp(n,1);
-        sort(nums.begin(),nums.end(),compareByLength);
-        int tmp=0;
-        int maxi=1;
-        for(int ind=0;ind<n;ind++){
-            for(int prev=0;prev<ind;prev++){
-                if(check(nums[ind],nums[prev])){
-                    tmp=dp[ind];
-                    dp[ind]=max(dp[ind],1+dp[prev]);
-                }maxi=max(maxi,dp[ind]);
+    int longestStrChain(vector<string>& words) {
+        sort(words.begin(), words.end(), [](const string& a, const string& b) {
+            return a.length() < b.length();
+        });
+        
+        unordered_map<string, int> dp;
+        int max_chain = 1;
+        
+        for (const string& word : words) {
+            dp[word] = 1;
+            
+            for (int i = 0; i < word.length(); ++i) {
+                string prev = word.substr(0, i) + word.substr(i + 1);
+                
+                if (dp.find(prev) != dp.end()) {
+                    dp[word] = max(dp[word], dp[prev] + 1);
+                }
             }
+            
+            max_chain = max(max_chain, dp[word]);
         }
-        return maxi;
+        
+        return max_chain;
     }
 };
