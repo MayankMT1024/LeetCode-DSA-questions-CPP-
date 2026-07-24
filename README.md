@@ -70,6 +70,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -190,6 +191,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0033-search-in-rotated-sorted-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
