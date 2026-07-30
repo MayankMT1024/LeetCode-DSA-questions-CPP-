@@ -75,6 +75,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0875-koko-eating-bananas) |
+| [1043-partition-array-for-maximum-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1260-shift-2d-grid) |
@@ -268,6 +269,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
+| [1043-partition-array-for-maximum-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
