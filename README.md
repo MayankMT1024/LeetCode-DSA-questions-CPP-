@@ -139,6 +139,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -183,6 +184,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -456,6 +458,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
