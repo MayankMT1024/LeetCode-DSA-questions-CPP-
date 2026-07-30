@@ -174,6 +174,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0076-minimum-window-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0132-palindrome-partitioning-ii) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0516-longest-palindromic-subsequence) |
@@ -249,6 +250,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
