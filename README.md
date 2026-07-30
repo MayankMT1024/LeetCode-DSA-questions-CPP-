@@ -44,6 +44,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0033-search-in-rotated-sorted-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0056-merge-intervals) |
@@ -241,6 +242,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0063-unique-paths-ii) |
@@ -459,6 +461,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0135-candy) |
