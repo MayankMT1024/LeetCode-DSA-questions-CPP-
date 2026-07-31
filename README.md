@@ -117,6 +117,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -193,6 +194,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -312,6 +314,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -478,6 +481,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2498-frog-jump-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
@@ -584,6 +588,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Ordered Set
