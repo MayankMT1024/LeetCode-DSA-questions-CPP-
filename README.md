@@ -174,6 +174,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0014-longest-common-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0076-minimum-window-substring) |
