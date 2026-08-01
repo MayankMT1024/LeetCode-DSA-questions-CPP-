@@ -177,6 +177,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0014-longest-common-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0072-edit-distance) |
@@ -239,6 +240,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -630,5 +632,6 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
