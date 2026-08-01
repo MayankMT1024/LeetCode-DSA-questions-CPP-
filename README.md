@@ -200,6 +200,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1092-shortest-common-supersequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -636,12 +637,15 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
