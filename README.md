@@ -65,6 +65,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0403-frog-jump](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +143,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0062-unique-paths](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -163,6 +165,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -270,6 +273,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0403-frog-jump](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0516-longest-palindromic-subsequence) |
@@ -618,4 +622,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
