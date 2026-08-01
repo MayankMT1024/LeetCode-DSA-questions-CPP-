@@ -186,6 +186,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0127-word-ladder](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0516-longest-palindromic-subsequence) |
@@ -633,5 +634,14 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
