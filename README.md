@@ -190,6 +190,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0516-longest-palindromic-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1048-longest-string-chain) |
@@ -626,4 +627,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
