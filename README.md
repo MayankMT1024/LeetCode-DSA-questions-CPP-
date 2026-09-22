@@ -680,5 +680,6 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
