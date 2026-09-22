@@ -132,6 +132,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0460-lfu-cache) |
 ## Math
