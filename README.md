@@ -58,6 +58,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0135-candy](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0312-burst-balloons) |
@@ -224,6 +225,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -370,6 +372,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
@@ -666,4 +669,16 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
