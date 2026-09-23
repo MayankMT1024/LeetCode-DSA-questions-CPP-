@@ -69,6 +69,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -367,6 +368,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -408,6 +410,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
