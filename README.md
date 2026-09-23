@@ -74,6 +74,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0628-maximum-product-of-three-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
+| [0735-asteroid-collision](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0827-making-a-large-island) |
@@ -370,6 +371,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -617,6 +619,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
