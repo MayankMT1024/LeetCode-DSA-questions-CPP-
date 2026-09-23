@@ -68,6 +68,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0435-non-overlapping-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -114,6 +115,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0208-implement-trie-prefix-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -364,6 +366,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -404,6 +407,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
